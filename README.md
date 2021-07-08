@@ -38,6 +38,7 @@ Em poucas palavras, o nodemon é uma ferramenta que nos ajuda a atualizar automa
 
 - Passo 8º\
   Estaremos criando mais um arquivo.
+
   ![add line 2](img/img-2.png)
   
   Ele que dará as informações de como nosso container irá se comportar.
@@ -48,12 +49,14 @@ Em poucas palavras, o nodemon é uma ferramenta que nos ajuda a atualizar automa
 - Passo 10º\
   Devemos modificar uma linha de nosso arquivo *package.json*
 
+
   ![add line 3](img/img-3.png)
 
 - Passo 11º\
   Antes de rodar nosso docker com um comando só, devemos encerrar o anterior, digitando *docker stop CONTAINERID*
 
   OBS. Substituir CONTAINER ID pelo número, como embaixo.
+
 
   ![add line 3](img/img-4.png)
 
